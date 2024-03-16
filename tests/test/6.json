@@ -1,0 +1,76 @@
+{
+      "id": 6,
+      "name": "HTML",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt cursus ligula, vitae luctus ex malesuada ac. Fusce vitae elit vel lectus bibendum feugiat. Nullam euismod fringilla augue, non efficitur ex vulputate nec.",
+      "category": "Программирование",
+      "cover": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "questions": [
+         {
+            "title": "Что обозначает тег <html> в HTML?",
+            "answers": [
+               "Определение заголовка документа",
+               "Начало и конец HTML-документа",
+               "Определение гиперссылок"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Какой тег используется для создания абзаца в HTML?",
+            "answers": ["<p>", "<a>", "<h1>"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как вставить изображение в HTML-документ?",
+            "answers": ["<image>", "<img>", "<picture>"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Что означает атрибут href в теге <a>?",
+            "answers": [
+               "Ссылка на изображение",
+               "Адрес веб-страницы или ресурса",
+               "Определение заголовка документа"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Какой тег используется для создания таблицы в HTML?",
+            "answers": ["<table>", "<tr>", "<td>"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как вставить перенос строки в HTML?",
+            "answers": ["<nl>", "<br>", "<newline>"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как создать неупорядоченный список в HTML?",
+            "answers": ["<ul>", "<ol>", "<li>"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Какой тег используется для выделения жирным шрифтом в HTML?",
+            "answers": ["<bold>", "<strong>", "<b>"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Что означает атрибут src в теге <img>?",
+            "answers": [
+               "Ссылка на изображение",
+               "Определение заголовка документа",
+               "Адрес веб-страницы или ресурса"
+            ],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Какой тег используется для создания ссылки в HTML?",
+            "answers": ["<link>", "<a>", "<href>"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как вставить горизонтальную линию в HTML?",
+            "answers": ["<line>", "<hr>", "<horizontal>"],
+            "correctAnswer": 1
+         }
+      ]
+   }

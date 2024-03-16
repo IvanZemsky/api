@@ -1,0 +1,33 @@
+{
+      "id": 1,
+      "name": "Frontend-разработка",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+      "category": "Программирование",
+      "cover": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "questions": [
+         {
+            "title": "Что такое замыкания в JavaScript?",
+            "answers": [
+               "Возможность обратиться к переменной до её объявления",
+               "Механизм работы цикла событий",
+               "Способность функции запоминать окружение в котором она объявлена"
+            ],
+            "correctAnswer": 2
+         },
+         {
+            "title": "React - это...",
+            "answers": ["Фреймворк", "Библиотека", "Язык программирования"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Хук useState в React.js - это...",
+            "answers": ["Хук для создания состояния", "Хук для создания ref"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Какое правильное написание атрибута класса в JSX?",
+            "answers": ["class", "class_name", "className"],
+            "correctAnswer": 2
+         }
+      ]
+   }

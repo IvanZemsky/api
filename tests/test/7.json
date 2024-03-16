@@ -1,0 +1,80 @@
+{
+      "id": 7,
+      "name": "CSS",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et finibus quam. Sed nec enim vel mi tincidunt vestibulum sit amet a odio. Integer non odio id urna cursus lacinia eu ac dui.",
+      "category": "Программирование",
+      "cover": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "questions": [
+         {
+            "title": "Как задать цвет текста в CSS?",
+            "answers": ["text-color", "color", "font-color"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как установить фоновый цвет элемента в CSS?",
+            "answers": [
+               "background-color",
+               "element-background",
+               "color-background"
+            ],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как задать отступы вокруг элемента в CSS?",
+            "answers": ["padding", "margin", "spacing"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как установить размер шрифта в CSS?",
+            "answers": ["font-size", "text-size", "size-font"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как установить жирное начертание шрифта в CSS?",
+            "answers": [
+               "font-style: bold;",
+               "font-weight: bold;",
+               "text-bold: true;"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как создать внутренние границы вокруг ячеек таблицы в CSS?",
+            "answers": ["table-border", "cell-spacing", "border-collapse"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Как скрыть элемент на странице в CSS?",
+            "answers": ["visibility: hidden;", "display: none;", "opacity: 0;"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как изменить форму курсора при наведении на элемент в CSS?",
+            "answers": ["cursor-style", "cursor-type", "cursor"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Как создать анимацию в CSS?",
+            "answers": ["animate", "animation", "keyframes"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Как установить выравнивание текста по центру в CSS?",
+            "answers": [
+               "text-align: center;",
+               "align-text: center;",
+               "center-text: true;"
+            ],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как изменить цвет границы элемента в CSS?",
+            "answers": [
+               "border-color",
+               "outline-color",
+               "element-border-color"
+            ],
+            "correctAnswer": 0
+         }
+      ]
+   }

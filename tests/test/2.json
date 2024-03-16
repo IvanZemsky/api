@@ -1,0 +1,67 @@
+{
+      "id": 2,
+      "name": "Математика",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+      "category": "Математика",
+      "cover": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "questions": [
+         {
+            "title": "Какой объем у прямоугольного параллелепипеда с длиной 5 см, шириной 3 см и высотой 4 см?",
+            "answers": ["60 см³", "40 см³", "30 см³"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Как называется операция умножения двух чисел?",
+            "answers": ["Сложение", "Деление", "Умножение"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Решите уравнение: 2x + 5 = 15",
+            "answers": ["x = 5", "x = 7", "x = 8"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Что такое десятичная система счисления?",
+            "answers": [
+               "Система с основанием 8",
+               "Система с основанием 10",
+               "Система с основанием 16"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как называется теорема, утверждающая, что квадрат гипотенузы прямоугольного треугольника равен сумме квадратов катетов?",
+            "answers": ["Теорема Пифагора", "Теорема Ферма", "Теорема Эйлера"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Сколько градусов в одном круге?",
+            "answers": ["180°", "360°", "90°"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как называется множество всех действительных чисел?",
+            "answers": [
+               "Целые числа",
+               "Натуральные числа",
+               "Вещественные числа"
+            ],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Сколько будет 3 в кубе?",
+            "answers": ["6", "9", "27"],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Как называется число, которое делится на себя и на единицу?",
+            "answers": ["Простое число", "Составное число", "Нулевое число"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Решите систему уравнений: \n2x + y = 8\nx - y = 2",
+            "answers": ["x = 3, y = 2", "x = 4, y = 1", "x = 2, y = 3"],
+            "correctAnswer": 1
+         }
+      ]
+   }

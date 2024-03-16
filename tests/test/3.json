@@ -1,0 +1,91 @@
+{
+      "id": 3,
+      "name": "Backend-разработка",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "category": "Программирование",
+      "cover": "https://images.unsplash.com/photo-1561233835-f937539b95b9?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "questions": [
+         {
+            "title": "Что такое RESTful API?",
+            "answers": [
+               "Программная библиотека для разработки интерфейсов",
+               "Архитектурный стиль для построения веб-сервисов",
+               "Язык программирования для бэкенда"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Что такое SQL-инъекция?",
+            "answers": [
+               "Способ внедрения кода на языке SQL в запрос",
+               "Метод аутентификации в базах данных",
+               "Тип данных в SQL"
+            ],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Какой HTTP-метод используется для отправки данных на сервер?",
+            "answers": ["GET", "POST", "PUT"],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Что такое NoSQL база данных?",
+            "answers": [
+               "Реляционная база данных",
+               "База данных без языка запросов",
+               "База данных без использования SQL"
+            ],
+            "correctAnswer": 2
+         },
+         {
+            "title": "Что такое микросервисы в архитектуре приложений?",
+            "answers": [
+               "Единый монолитный сервис",
+               "Независимые сервисы, взаимодействующие по сети",
+               "Сервисы, работающие только внутри браузера"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Что такое ORM в контексте бэкенд-разработки?",
+            "answers": [
+               "Объектно-реляционное отображение",
+               "Операционная система для бэкенда",
+               "Методология разработки"
+            ],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Что такое JWT?",
+            "answers": [
+               "JavaScript Web Token",
+               "JSON Web Token",
+               "Java Web Token"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Что такое Docker?",
+            "answers": [
+               "Облачный сервис",
+               "Платформа для контейнеризации приложений",
+               "Протокол обмена данными"
+            ],
+            "correctAnswer": 1
+         },
+         {
+            "title": "Как называется процесс разделения большого приложения на более мелкие, управляемые отдельно?",
+            "answers": ["Декомпозиция", "Композиция", "Абстракция"],
+            "correctAnswer": 0
+         },
+         {
+            "title": "Что такое WebSockets?",
+            "answers": [
+               "Технология для создания веб-страниц",
+               "Протокол для обмена сообщениями между браузером и сервером",
+               "Библиотека для создания анимаций"
+            ],
+            "correctAnswer": 1
+         }
+      ]
+   }
