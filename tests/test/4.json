@@ -2,7 +2,7 @@
       "id": 4,
       "name": "Объектно-ориентированное программирование (ООП)",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Quisque et orci vel elit iaculis fermentum vel vel nulla. Vivamus ut nisl nec lectus.",
-      "category": "Программирование",
+      "category": "programming",
       "cover": "https://images.unsplash.com/flagged/photo-1562599838-8cc871c241a5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "questions": [
          {
