@@ -1,0 +1,135 @@
+ {
+      "id": 12,
+      "name": "Испанский язык. Продвинутый уровень",
+      "desc": "В тесте представлены вопросы по продвинутому испанскому языку. Ответьте на вопросы и оцените свой знаний испанского языка уровень!",
+      "category": "languages",
+      "cover": "coverImg30",
+      "questions": [
+         {
+            "title": "Как переводится слово 'libro' на испанский язык?",
+            "answers": ["libro", "mesa", "silla", "ordenador"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой артикль используется перед словом 'manzana'?",
+            "answers": ["el", "la", "los", "las", "no se necesita artículo"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой временной формой является 'Yo como'?",
+            "answers": [
+               "Presente",
+               "Pretérito",
+               "Perfecto",
+               "Pluscuamperfecto",
+               "Futuro"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Что означает '¿Cómo estás'?",
+            "answers": [
+               "¿Cómo te llamas?",
+               "¿Qué tal?",
+               "¿Qué hay de nuevo?",
+               "¿Dónde estás?",
+               "¿Dónde está el mercado?"
+            ],
+            "correctAnswerIndex": 1
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Ella va a la escuela'?",
+            "answers": [
+               "Ella va la escuela a",
+               "La escuela ella va a",
+               "Ella a la escuela va",
+               "Va ella a la escuela"
+            ],
+            "correctAnswerIndex": 2
+         },
+         {
+            "title": "Как переводится 'coche'?",
+            "answers": ["máquina", "coche", "autobús", "tren", "bicicleta"],
+            "correctAnswerIndex": 1
+         },
+         {
+            "title": "Какой артикль используется перед словом 'hora'?",
+            "answers": ["el", "la", "los", "las", "no se necesita artículo"],
+            "correctAnswerIndex": 4
+         },
+         {
+            "title": "Какой временной формой является 'Él jugaba fútbol cada sábado'?",
+            "answers": [
+               "Presente",
+               "Pretérito",
+               "Perfecto",
+               "Futuro"
+            ],
+            "correctAnswerIndex": 1
+         },
+         {
+            "title": "Что означает '¿Dónde está el banco más cercano'?",
+            "answers": [
+               "¿Dónde vives?",
+               "¿Dónde trabajas?",
+               "¿Dónde estoy?",
+               "¿Dónde está el banco más cercano?",
+               "¿Dónde está el mercado?"
+            ],
+            "correctAnswerIndex": 3
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Me gusta la música clásica'?",
+            "answers": [
+               "Me música gusta clásica la",
+               "Música me gusta clásica la",
+               "Me gusta clásica música la",
+               "Gusta me música clásica la"
+            ],
+            "correctAnswerIndex": 2
+         },
+         {
+            "title": "Как переводится 'ciudad'?",
+            "answers": ["ciudad", "pueblo", "aldea", "país", "capital"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой артикль используется перед словом 'paraguas'?",
+            "answers": ["el", "la", "los", "las", "no se necesita artículo"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой временной формой является 'Ellos están nadando'?",
+            "answers": [
+               "Presente",
+               "Pretérito",
+               "Perfecto",
+               "Pluscuamperfecto",
+               "Futuro"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Что означает '¿Qué hora es'?",
+            "answers": [
+               "¿Qué hora es?",
+               "¿Qué tal?",
+               "¿Qué hay de nuevo?",
+               "¿Cómo está el clima?",
+               "¿Qué día es hoy?"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Ella habla bien español'?",
+            "answers": [
+               "Ella español habla bien",
+               "Habla ella español bien",
+               "Ella bien habla español",
+               "Habla bien ella español",
+               "Español ella habla bien"
+            ],
+            "correctAnswerIndex": 2
+         }
+      ]
+   }

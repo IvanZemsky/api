@@ -1,0 +1,142 @@
+ {
+      "id": 11,
+      "name": "Немецкий язык. Продвинутый уровень",
+      "desc": "Тест предназначен для проверки ваших продвинутых знаний немецкого языка. Ответьте на вопросы и оцените свой уровень!",
+      "category": "languages",
+      "cover": "coverImg20",
+      "questions": [
+         {
+            "title": "Как переводится слово 'Buch' на немецкий язык?",
+            "answers": ["Buch", "Tisch", "Stuhl", "Computer"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какое слово употребляется перед словом 'Apfel'?",
+            "answers": ["ein", "eine", "das", "kein Artikel erforderlich"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какая временная форма используется в 'Ich esse'?",
+            "answers": [
+               "Präsens",
+               "Präteritum",
+               "Perfekt",
+               "Plusquamperfekt",
+               "Futur I"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Как переводится 'Wie geht es dir'?",
+            "answers": [
+               "Wie heißt du?",
+               "Wie geht's?",
+               "Was gibt's Neues?",
+               "Wo bist du?",
+               "Wo bist du?"
+            ],
+            "correctAnswerIndex": 1
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Sie geht zur Schule'?",
+            "answers": [
+               "Sie geht Schule zur",
+               "Schule sie geht zur",
+               "Sie zur Schule geht",
+               "Geht sie zur Schule"
+            ],
+            "correctAnswerIndex": 2
+         },
+         {
+            "title": "Как переводится 'Auto'?",
+            "answers": ["Maschine", "Auto", "Bus", "Zug", "Fahrrad"],
+            "correctAnswerIndex": 1
+         },
+         {
+            "title": "Какой артикль используется перед словом 'Stunde'?",
+            "answers": [
+               "ein",
+               "eine",
+               "die",
+               "kein Artikel erforderlich",
+               "etwas"
+            ],
+            "correctAnswerIndex": 3
+         },
+         {
+            "title": "Какая временная форма используется в 'Er hat jeden Samstag Fußball gespielt'?",
+            "answers": ["Präsens", "Präteritum", "Perfekt", "Futur I"],
+            "correctAnswerIndex": 2
+         },
+         {
+            "title": "Что означает 'Wo ist die nächste Bank'?",
+            "answers": [
+               "Wo wohnst du?",
+               "Wo arbeitest du?",
+               "Wo bin ich?",
+               "Wo ist die nächste Bank?",
+               "Wo ist der Markt?"
+            ],
+            "correctAnswerIndex": 3
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Ich mag klassische Musik'?",
+            "answers": [
+               "Ich Musik mag klassische",
+               "Musik ich mag klassische",
+               "Ich mag klassische Musik",
+               "Mag ich klassische Musik"
+            ],
+            "correctAnswerIndex": 2
+         },
+         {
+            "title": "Как переводится 'Stadt'?",
+            "answers": ["Stadt", "Dorf", "Dorf", "Land", "Hauptstadt"],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой артикль используется перед словом 'Regenschirm'?",
+            "answers": [
+               "ein",
+               "eine",
+               "die",
+               "kein Artikel erforderlich",
+               "etwas"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какая временная форма используется в 'Sie schwimmen'?",
+            "answers": [
+               "Präsens",
+               "Präteritum",
+               "Perfekt",
+               "Plusquamperfekt",
+               "Futur I"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Что означает 'Wie spät ist es'?",
+            "answers": [
+               "Wie viel Uhr ist es?",
+               "Wie geht's?",
+               "Was gibt's Neues?",
+               "Wie ist das Wetter?",
+               "Welcher Tag ist heute?"
+            ],
+            "correctAnswerIndex": 0
+         },
+         {
+            "title": "Какой правильный порядок слов в предложении: 'Sie spricht gut Deutsch'?",
+            "answers": [
+               "Sie Deutsch spricht gut",
+               "Spricht sie Deutsch gut",
+               "Sie gut spricht Deutsch",
+               "Spricht gut sie Deutsch",
+               "Deutsch sie spricht gut"
+            ],
+            "correctAnswerIndex": 2
+         }
+      ]
+   }
