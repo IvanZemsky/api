@@ -1,0 +1,65 @@
+[
+   {
+      "id": 1,
+      "name": "Frontend-разработка",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 2,
+      "name": "Математика",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+      "category": "math",
+      "cover": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 3,
+      "name": "Backend-разработка",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/photo-1561233835-f937539b95b9?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 4,
+      "name": "Объектно-ориентированное программирование (ООП)",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Quisque et orci vel elit iaculis fermentum vel vel nulla. Vivamus ut nisl nec lectus.",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/flagged/photo-1562599838-8cc871c241a5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 5,
+      "name": "Основы программирования",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod nunc et justo ultricies, id ultricies velit scelerisque. Aliquam id varius lacus. Ut commodo sem ac eros laoreet, ut ultrices purus scelerisque.",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 6,
+      "name": "HTML",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt cursus ligula, vitae luctus ex malesuada ac. Fusce vitae elit vel lectus bibendum feugiat. Nullam euismod fringilla augue, non efficitur ex vulputate nec.",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 7,
+      "name": "CSS",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et finibus quam. Sed nec enim vel mi tincidunt vestibulum sit amet a odio. Integer non odio id urna cursus lacinia eu ac dui.",
+      "category": "programming",
+      "cover": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 8,
+      "name": "История древнего Рима",
+      "desc": "Древний Рим - одна из величайших цивилизаций древности, оставившая неизгладимый след в мировой истории. От создания Рима, до его величественной империи - вопросы этого теста погрузят вас в увлекательный мир древнеримского общества.",
+      "category": "history",
+      "cover": "https://images.unsplash.com/photo-1555992828-ca4dbe41d294?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   {
+      "id": 9,
+      "name": "Математика. Квадратные уравнения",
+      "desc": "Освежите свои знания о квадратных уравнениях! В этом вопросы, проверяющие ваши теоретические знания, а также практические задачи на нахождение корней квадратных уравнений.",
+      "category": "math",
+      "cover": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   }
+]
