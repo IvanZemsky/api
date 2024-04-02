@@ -8,12 +8,12 @@
          {
             "title": "Как переводится слово 'книга' на английский язык?",
             "answers": ["book", "table", "chair", "computer"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой артикль используется перед словом 'apple'?",
             "answers": ["a", "an", "the", "no article needed"],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой временной формой является 'I am eating'?",
@@ -24,7 +24,7 @@
                "Past Continuous",
                "Future Simple"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Что означает 'How are you'?",
@@ -34,7 +34,7 @@
                "Что нового?",
                "Где вы?"
             ],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'She school goes to'?",
@@ -44,17 +44,17 @@
                "She goes to school",
                "Goes she to school"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Как переводится 'машина'?",
             "answers": ["machine", "car", "bus", "train", "bike"],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой артикль используется перед словом 'hour'?",
             "answers": ["a", "an", "the", "no article needed", "some"],
-            "correctAnswerIndex": 3
+            "correctAnswer": 3
          },
          {
             "title": "Какой временной формой является 'He played football every Saturday'?",
@@ -64,7 +64,7 @@
                "Past Continuous",
                "Future Simple"
             ],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Что означает 'Where is the nearest bank'?",
@@ -75,7 +75,7 @@
                "Где ближайший банк?",
                "Где рынок?"
             ],
-            "correctAnswerIndex": 3
+            "correctAnswer": 3
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'I like music classical'?",
@@ -85,17 +85,17 @@
                "I like classical music",
                "Like music classical I"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Как переводится 'город'?",
             "answers": ["city", "town", "village", "country", "capital"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой артикль используется перед словом 'umbrella'?",
             "answers": ["a", "an", "the", "no article needed", "some"],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой временной формой является 'They are swimming'?",
@@ -106,7 +106,7 @@
                "Past Continuous",
                "Future Simple"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Что означает 'What time is it'?",
@@ -117,7 +117,7 @@
                "Какая погода?",
                "Какой день?"
             ],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'She speaks English well'?",
@@ -128,7 +128,7 @@
                "Speaks well she English",
                "English she speaks well"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          }
       ]
    }

@@ -8,12 +8,12 @@
          {
             "title": "Как переводится слово 'libro' на испанский язык?",
             "answers": ["libro", "mesa", "silla", "ordenador"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой артикль используется перед словом 'manzana'?",
             "answers": ["el", "la", "los", "las", "no se necesita artículo"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой временной формой является 'Yo como'?",
@@ -24,7 +24,7 @@
                "Pluscuamperfecto",
                "Futuro"
             ],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Что означает '¿Cómo estás'?",
@@ -35,7 +35,7 @@
                "¿Dónde estás?",
                "¿Dónde está el mercado?"
             ],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'Ella va a la escuela'?",
@@ -45,17 +45,17 @@
                "Ella a la escuela va",
                "Va ella a la escuela"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Как переводится 'coche'?",
             "answers": ["máquina", "coche", "autobús", "tren", "bicicleta"],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Какой артикль используется перед словом 'hora'?",
             "answers": ["el", "la", "los", "las", "no se necesita artículo"],
-            "correctAnswerIndex": 4
+            "correctAnswer": 4
          },
          {
             "title": "Какой временной формой является 'Él jugaba fútbol cada sábado'?",
@@ -65,7 +65,7 @@
                "Perfecto",
                "Futuro"
             ],
-            "correctAnswerIndex": 1
+            "correctAnswer": 1
          },
          {
             "title": "Что означает '¿Dónde está el banco más cercano'?",
@@ -76,7 +76,7 @@
                "¿Dónde está el banco más cercano?",
                "¿Dónde está el mercado?"
             ],
-            "correctAnswerIndex": 3
+            "correctAnswer": 3
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'Me gusta la música clásica'?",
@@ -86,17 +86,17 @@
                "Me gusta clásica música la",
                "Gusta me música clásica la"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          },
          {
             "title": "Как переводится 'ciudad'?",
             "answers": ["ciudad", "pueblo", "aldea", "país", "capital"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой артикль используется перед словом 'paraguas'?",
             "answers": ["el", "la", "los", "las", "no se necesita artículo"],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой временной формой является 'Ellos están nadando'?",
@@ -107,7 +107,7 @@
                "Pluscuamperfecto",
                "Futuro"
             ],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Что означает '¿Qué hora es'?",
@@ -118,7 +118,7 @@
                "¿Cómo está el clima?",
                "¿Qué día es hoy?"
             ],
-            "correctAnswerIndex": 0
+            "correctAnswer": 0
          },
          {
             "title": "Какой правильный порядок слов в предложении: 'Ella habla bien español'?",
@@ -129,7 +129,7 @@
                "Habla bien ella español",
                "Español ella habla bien"
             ],
-            "correctAnswerIndex": 2
+            "correctAnswer": 2
          }
       ]
    }
