@@ -4,20 +4,20 @@
       "name": "Английский язык. Начальный уровень",
       "desc": "Этот тест предназначен для проверки ваших начальных знаний английского языка. Ответьте на вопросы и оцените свой уровень!",
       "category": "languages",
-      "cover": "coverImg10"
+      "cover": "https://images.unsplash.com/photo-1557321259-82601a9ebfef?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
    },
    {
       "id": 11,
       "name": "Немецкий язык. Продвинутый уровень",
       "desc": "Тест предназначен для проверки ваших продвинутых знаний немецкого языка. Ответьте на вопросы и оцените свой уровень!",
       "category": "languages",
-      "cover": "coverImg20"
+      "cover": "https://images.unsplash.com/photo-1681840531300-55f69047ccfb?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
    },
    {
       "id": 12,
       "name": "Испанский язык. Продвинутый уровень",
       "desc": "В тесте представлены вопросы по продвинутому испанскому языку. Ответьте на вопросы и оцените свой знаний испанского языка уровень!",
       "category": "languages",
-      "cover": "coverImg30"
+      "cover": "https://images.unsplash.com/photo-1632504102568-fb9282ec920f?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
    }
 ]
